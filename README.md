@@ -1,3 +1,2 @@
 ### Douglas Hardman
-- Flood Risk
-- Geospatial
+I am interested in flood risk, python, GIS and geospatial data
