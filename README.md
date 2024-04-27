@@ -1,2 +1,2 @@
 ### Douglas Hardman
-I am interested in flood risk, python, GIS and geospatial data
+I am interested in flood risk and environmental science, Python, GIS and geospatial data
