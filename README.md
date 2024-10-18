@@ -1,2 +1,2 @@
 ### Douglas Hardman
-Interested in flood risk and environmental science, Python, GIS and anything geospatial!
+https://www.linkedin.com/in/douglas-hardman-47bb2012b/
